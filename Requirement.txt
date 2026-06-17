@@ -1,0 +1,10 @@
+streamlit
+
+# PyTorch CPU version (required for Streamlit Cloud)
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+# Add other packages here if needed
+# transformers
+# numpy
+# pandas
+# scikit-learn
