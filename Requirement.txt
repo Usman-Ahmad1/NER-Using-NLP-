@@ -1,0 +1,7 @@
+streamlit
+torch
+# Add other packages your app needs, e.g.
+# torchvision
+# transformers
+# numpy
+# etc.
